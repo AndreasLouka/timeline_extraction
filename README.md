@@ -9,6 +9,6 @@ This is a continuation project. The original project can be found here: https://
 2.  If required download Stanford CoreNLP and update the abdolute path of the field 'stanfordcorenlp_loc' in code/cdeo_config.json
 3.  Update the field 'root_dir' in code/cdeo_config.json with the corresponding abdolute path.
 4.  Update variable config_json_loc in code/cdeo_config.py witht the absolute path to code/cdeo_config.json
-5.  Follow instructions from https://github.com/biplab-iitb/practNLPTools to download practNLPTools. Place practNLPTools in the folder code/practnlptools. NOTE: the class Annotator is used from practNLPTools. The annotator object is being created using the following command: from practnlptools.tools import Annotator. 
-
+5.  Follow instructions from https://github.com/biplab-iitb/practNLPTools to download practNLPTools. Place practNLPTools in the folder code/practnlptools. NOTE: the class Annotator is used from practNLPTools. The annotator object is being created using the following command: 'from practnlptools.tools import Annotator' . 
+6. Install the python-levenshtein package. If you are using conda, run: conda install -c https://conda.anaconda.org/faircloth-lab python-levenshtein
 
