@@ -35,6 +35,6 @@ To train on the Apple corpus (corpus 0) and test on the Airbus (corpus 1), GM (c
 python -c "import cdeo; cdeo.run(test_corpus_list=[1,2,3], train_corpus_list=[0], link_model='structured_perceptron')"
 
 
-To get the total micro scores place all predicted and gold timelines in two separate folders. Then # change the directory to cd code/evaluation_tool. Then run the following after adjusting the paths:
+To get the total micro scores place all predicted and gold timelines in two separate folders. Then change the directory to cd code/evaluation_tool. Then run the following after adjusting the paths:
 
 python evaluation_all.py ~/projects/cdeo/data/evaluation/combined/gold/ ~/projects/cdeo/data/evaluation/combined/results_structured/
