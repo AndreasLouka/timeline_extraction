@@ -1,0 +1,24 @@
+Alan Mulally
+0	XXXX-XX-XX	60086-2-expected
+0	XXXX-XX-XX	60086-2-launched
+0	XXXX-XX-XX	60086-2-sales
+1	2007-02-09	60086-3-decision
+1	2007-02-09	60086-3-makes
+1	2007-02-09	60086-9-remembered
+1	2007-02-09	60086-2-rename
+1	2007-02-09	60086-2-reported
+1	2007-02-09	60086-4-reviving
+2	2009	150433-9-adding
+2	2009	150433-8-commented
+2	2009	150433-9-face
+2	2009	150433-9-forging
+2	2009	143300-5-making
+2	2009	143300-7-meet
+2	2009	143300-7-post
+2	2009	143300-7-predicted
+2	2009	143300-7-see
+2	2009	143300-5-show
+2	2009	143300-7-suggested
+2	2009	143300-7-surpass
+2	2009	143300-7-this
+2	2009	150433-9-working
